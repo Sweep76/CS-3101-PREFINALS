@@ -1,2 +1,2 @@
 # CS-3101-PREFINALS
-1. it's empty for now lol
+1. compiled
